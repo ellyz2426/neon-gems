@@ -1,0 +1,14 @@
+{
+  "build_number": 51,
+  "game": "neon-gems",
+  "genre": "match-3 swap puzzle",
+  "date": "2026-06-16",
+  "cycle": "AM",
+  "status": "complete",
+  "rounds": 1,
+  "total_build_minutes": 30,
+  "loc": 1819,
+  "panels": 14,
+  "achievements": 40,
+  "game_modes": 6
+}
