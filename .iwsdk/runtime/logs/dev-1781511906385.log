@@ -1,0 +1,185 @@
+
+> neon-stack@1.0.0 dev:runtime
+> vite
+
+🚀 Generating initial UIKitML files for dev server...
+👁️  UIKitML file watcher started - monitoring for changes...
+8:25:18 AM [vite] (client) Re-optimizing dependencies because lockfile has changed
+
+  VITE v7.3.5  ready in 11631 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://198.19.0.2:5173/
+[browser] [PanelUISystem] Error loading panel for entity 7: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+[browser] Error: Invalid Yoga point: {24}
+    at convertYogaPoint (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:23118:9)
+    at convertPoint (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25495:10)
+    at Object.paddingBottom (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25696:24)
+    at E.<anonymous> (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25764:22)
+    at E.c (http://localhost:5173/node_modules/.vite/deps/chunk-H7J63S3N.js?v=73d37dbb:348:19)
+    at j (http://localhost:5173/node_modules/.vite/deps/chunk-H7J63S3N.js?v=73d37dbb:382:8)
+    at abortableEffect (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:36167:23)
+    at http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25763:9
+    at PropertiesImplementation2.subscribePropertyKeys (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:26194:7)
+    at E.x (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25759:48)
+📝 UIKitML file change: ui/countdown.uikitml
+✅ UIKitML file recompiled: countdown.uikitml
+📝 UIKitML file change: ui/hud.uikitml
+✅ UIKitML file recompiled: hud.uikitml
+[browser] [PanelUISystem] Error loading panel for entity 7: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+[browser] Error: Invalid Yoga point: {10}
+    at convertYogaPoint (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:23118:9)
+    at convertPoint (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25495:10)
+    at Object.paddingBottom (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25696:24)
+    at E.<anonymous> (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25764:22)
+    at E.c (http://localhost:5173/node_modules/.vite/deps/chunk-H7J63S3N.js?v=73d37dbb:348:19)
+    at j (http://localhost:5173/node_modules/.vite/deps/chunk-H7J63S3N.js?v=73d37dbb:382:8)
+    at abortableEffect (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:36167:23)
+    at http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25763:9
+    at PropertiesImplementation2.subscribePropertyKeys (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:26194:7)
+    at E.x (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25759:48)
+[browser] [PanelUISystem] Error loading panel for entity 7: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+[browser] Error: Invalid Yoga point: {10}
+    at convertYogaPoint (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:23118:9)
+    at convertPoint (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25495:10)
+    at Object.paddingBottom (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25696:24)
+    at E.<anonymous> (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25764:22)
+    at E.c (http://localhost:5173/node_modules/.vite/deps/chunk-H7J63S3N.js?v=73d37dbb:348:19)
+    at j (http://localhost:5173/node_modules/.vite/deps/chunk-H7J63S3N.js?v=73d37dbb:382:8)
+    at abortableEffect (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:36167:23)
+    at http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25763:9
+    at PropertiesImplementation2.subscribePropertyKeys (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:26194:7)
+    at E.x (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25759:48)
+📝 UIKitML file change: ui/main-menu.uikitml
+✅ UIKitML file recompiled: main-menu.uikitml
+[browser] [PanelUISystem] Error loading panel for entity 7: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+[browser] Error: Invalid Yoga point: {10}
+    at convertYogaPoint (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:23118:9)
+    at convertPoint (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25495:10)
+    at Object.paddingBottom (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25696:24)
+    at E.<anonymous> (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25764:22)
+    at E.c (http://localhost:5173/node_modules/.vite/deps/chunk-H7J63S3N.js?v=73d37dbb:348:19)
+    at j (http://localhost:5173/node_modules/.vite/deps/chunk-H7J63S3N.js?v=73d37dbb:382:8)
+    at abortableEffect (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:36167:23)
+    at http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25763:9
+    at PropertiesImplementation2.subscribePropertyKeys (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:26194:7)
+    at E.x (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25759:48)
+📝 UIKitML file change: ui/game-over.uikitml
+✅ UIKitML file recompiled: game-over.uikitml
+📝 UIKitML file change: ui/pause.uikitml
+✅ UIKitML file recompiled: pause.uikitml
+[browser] [PanelUISystem] Error loading panel for entity 7: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+[browser] Error: Invalid Yoga point: {10}
+    at convertYogaPoint (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:23118:9)
+    at convertPoint (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25495:10)
+    at Object.paddingBottom (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25696:24)
+    at E.<anonymous> (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25764:22)
+    at E.c (http://localhost:5173/node_modules/.vite/deps/chunk-H7J63S3N.js?v=73d37dbb:348:19)
+    at j (http://localhost:5173/node_modules/.vite/deps/chunk-H7J63S3N.js?v=73d37dbb:382:8)
+    at abortableEffect (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:36167:23)
+    at http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25763:9
+    at PropertiesImplementation2.subscribePropertyKeys (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:26194:7)
+    at E.x (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25759:48)
+[browser] [PanelUISystem] Error loading panel for entity 7: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+[browser] Error: Invalid Yoga point: {10}
+    at convertYogaPoint (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:23118:9)
+    at convertPoint (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25495:10)
+    at Object.paddingBottom (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25696:24)
+    at E.<anonymous> (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25764:22)
+    at E.c (http://localhost:5173/node_modules/.vite/deps/chunk-H7J63S3N.js?v=73d37dbb:348:19)
+    at j (http://localhost:5173/node_modules/.vite/deps/chunk-H7J63S3N.js?v=73d37dbb:382:8)
+    at abortableEffect (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:36167:23)
+    at http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25763:9
+    at PropertiesImplementation2.subscribePropertyKeys (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:26194:7)
+    at E.x (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25759:48)
+📝 UIKitML file change: ui/settings.uikitml
+✅ UIKitML file recompiled: settings.uikitml
+[browser] [PanelUISystem] Error loading panel for entity 7: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+[browser] Error: Invalid Yoga point: {10}
+    at convertYogaPoint (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:23118:9)
+    at convertPoint (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25495:10)
+    at Object.paddingBottom (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25696:24)
+    at E.<anonymous> (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25764:22)
+    at E.c (http://localhost:5173/node_modules/.vite/deps/chunk-H7J63S3N.js?v=73d37dbb:348:19)
+    at j (http://localhost:5173/node_modules/.vite/deps/chunk-H7J63S3N.js?v=73d37dbb:382:8)
+    at abortableEffect (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:36167:23)
+    at http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25763:9
+    at PropertiesImplementation2.subscribePropertyKeys (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:26194:7)
+    at E.x (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25759:48)
+📝 UIKitML file change: ui/mode-select.uikitml
+✅ UIKitML file recompiled: mode-select.uikitml
+[browser] [PanelUISystem] Error loading panel for entity 7: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+[browser] Error: Invalid Yoga point: {10}
+    at convertYogaPoint (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:23118:9)
+    at convertPoint (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25495:10)
+    at Object.paddingBottom (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25696:24)
+    at E.<anonymous> (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25764:22)
+    at E.c (http://localhost:5173/node_modules/.vite/deps/chunk-H7J63S3N.js?v=73d37dbb:348:19)
+    at j (http://localhost:5173/node_modules/.vite/deps/chunk-H7J63S3N.js?v=73d37dbb:382:8)
+    at abortableEffect (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:36167:23)
+    at http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25763:9
+    at PropertiesImplementation2.subscribePropertyKeys (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:26194:7)
+    at E.x (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25759:48)
+📝 UIKitML file change: ui/achievements.uikitml
+✅ UIKitML file recompiled: achievements.uikitml
+[browser] [PanelUISystem] Error loading panel for entity 7: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+[browser] Error: Invalid Yoga point: {10}
+    at convertYogaPoint (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:23118:9)
+    at convertPoint (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25495:10)
+    at Object.paddingBottom (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25696:24)
+    at E.<anonymous> (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25764:22)
+    at E.c (http://localhost:5173/node_modules/.vite/deps/chunk-H7J63S3N.js?v=73d37dbb:348:19)
+    at j (http://localhost:5173/node_modules/.vite/deps/chunk-H7J63S3N.js?v=73d37dbb:382:8)
+    at abortableEffect (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:36167:23)
+    at http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25763:9
+    at PropertiesImplementation2.subscribePropertyKeys (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:26194:7)
+    at E.x (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25759:48)
+📝 UIKitML file change: ui/tutorial.uikitml
+✅ UIKitML file recompiled: tutorial.uikitml
+[browser] [PanelUISystem] Error loading panel for entity 7: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+[browser] [PanelUISystem] Error loading panel for entity 10: Error: Invalid Yoga point: {10}
+    at convertYogaPoint (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:23118:9)
+    at convertPoint (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25495:10)
+    at Object.paddingBottom (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25696:24)
+    at E.<anonymous> (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25764:22)
+    at E.c (http://localhost:5173/node_modules/.vite/deps/chunk-H7J63S3N.js?v=73d37dbb:348:19)
+    at j (http://localhost:5173/node_modules/.vite/deps/chunk-H7J63S3N.js?v=73d37dbb:382:8)
+    at abortableEffect (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:36167:23)
+    at http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25763:9
+    at PropertiesImplementation2.subscribePropertyKeys (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:26194:7)
+    at E.x (http://localhost:5173/node_modules/.vite/deps/chunk-OKZO44CI.js?v=73d37dbb:25759:48)
+📝 UIKitML file change: ui/stats.uikitml
+✅ UIKitML file recompiled: stats.uikitml
+[browser] [PanelUISystem] Error loading panel for entity 7: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+[browser] [PanelUISystem] Error loading panel for entity 7: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+📝 UIKitML file change: ui/achievements.uikitml
+✅ UIKitML file recompiled: achievements.uikitml
+[browser] [PanelUISystem] Error loading panel for entity 7: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+📝 UIKitML file change: ui/achievements.uikitml
+✅ UIKitML file recompiled: achievements.uikitml
+[browser] [PanelUISystem] Error loading panel for entity 7: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+➕ UIKitML file add: ui/ach.uikitml
+✅ UIKitML file recompiled: ach.uikitml
+[browser] [PanelUISystem] Error loading panel for entity 7: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+8:38:19 AM [vite] (client) page reload src/game.ts
+📝 UIKitML file change: ui/achievements.uikitml
+📝 UIKitML file change: ui/ach.uikitml
+✅ UIKitML file recompiled: ach.uikitml
+📝 UIKitML file change: ui/ach.uikitml
+✅ UIKitML file recompiled: ach.uikitml
+8:39:45 AM [vite] (client) page reload src/game.ts
+8:41:28 AM [vite] (client) page reload src/game.ts
+📝 UIKitML file change: ui/main-menu.uikitml
+✅ UIKitML file recompiled: main-menu.uikitml
+📝 UIKitML file change: ui/hud.uikitml
+📝 UIKitML file change: ui/countdown.uikitml
+📝 UIKitML file change: ui/game-over.uikitml
+📝 UIKitML file change: ui/pause.uikitml
+✅ UIKitML file recompiled: pause.uikitml
+📝 UIKitML file change: ui/settings.uikitml
+📝 UIKitML file change: ui/mode-select.uikitml
+📝 UIKitML file change: ui/ach.uikitml
+✅ UIKitML file recompiled: ach.uikitml
+📝 UIKitML file change: ui/tutorial.uikitml
+📝 UIKitML file change: ui/stats.uikitml
+✅ UIKitML file recompiled: stats.uikitml

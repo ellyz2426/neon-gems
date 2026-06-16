@@ -1,0 +1,124 @@
+
+> neon-stack@1.0.0 dev:runtime
+> vite
+
+🚀 Generating initial UIKitML files for dev server...
+👁️  UIKitML file watcher started - monitoring for changes...
+
+  VITE v7.3.5  ready in 1408 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://198.19.0.2:5173/
+9:04:45 AM [vite] (client) page reload src/game.ts
+➕ UIKitML file add: ui/powerup.uikitml
+✅ UIKitML file recompiled: powerup.uikitml
+9:59:01 AM [vite] (client) page reload src/game.ts
+9:59:06 AM [vite] (client) page reload src/game.ts
+9:59:11 AM [vite] (client) page reload src/game.ts
+9:59:18 AM [vite] (client) page reload src/game.ts
+9:59:29 AM [vite] (client) page reload src/game.ts
+9:59:35 AM [vite] (client) page reload src/game.ts
+9:59:46 AM [vite] (client) page reload src/game.ts
+10:00:07 AM [vite] (client) page reload src/game.ts
+10:00:12 AM [vite] (client) page reload src/game.ts
+10:00:17 AM [vite] (client) page reload src/game.ts
+10:00:22 AM [vite] (client) page reload src/game.ts
+10:00:30 AM [vite] (client) page reload src/game.ts
+10:00:35 AM [vite] (client) page reload src/game.ts
+📝 UIKitML file change: ui/game-over.uikitml
+✅ UIKitML file recompiled: game-over.uikitml
+📝 UIKitML file change: ui/settings.uikitml
+✅ UIKitML file recompiled: settings.uikitml
+📝 UIKitML file change: ui/hud.uikitml
+✅ UIKitML file recompiled: hud.uikitml
+10:01:19 AM [vite] (client) page reload src/game.ts
+10:01:27 AM [vite] (client) page reload src/game.ts
+10:01:34 AM [vite] (client) page reload src/game.ts
+10:01:44 AM [vite] (client) page reload src/game.ts
+10:01:54 AM [vite] (client) page reload src/game.ts
+10:02:01 AM [vite] (client) page reload src/game.ts
+10:02:06 AM [vite] (client) page reload src/game.ts
+📝 UIKitML file change: ui/tutorial.uikitml
+✅ UIKitML file recompiled: tutorial.uikitml
+➕ UIKitML file add: ui/combo-announce.uikitml
+➕ UIKitML file add: ui/daily.uikitml
+✅ UIKitML file recompiled: daily.uikitml
+11:00:07 AM [vite] (client) page reload src/game.ts
+11:00:11 AM [vite] (client) page reload src/game.ts
+11:00:19 AM [vite] (client) page reload src/game.ts
+11:00:23 AM [vite] (client) page reload src/game.ts
+11:00:27 AM [vite] (client) page reload src/game.ts
+[browser] TypeError: this.createAurora is not a function
+    at GameSystem.setupScene (http://localhost:5173/src/game.ts?t=1781521227379:464:10)
+    at GameSystem.bootstrap (http://localhost:5173/src/game.ts?t=1781521227379:432:10)
+    at main (http://localhost:5173/src/index.ts?t=1781521227379:24:8)
+11:00:43 AM [vite] (client) page reload src/game.ts
+11:00:52 AM [vite] (client) page reload src/game.ts
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+11:01:09 AM [vite] (client) page reload src/game.ts
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+11:01:13 AM [vite] (client) page reload src/game.ts
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+11:01:20 AM [vite] (client) page reload src/game.ts
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+11:01:46 AM [vite] (client) page reload src/game.ts
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+11:01:59 AM [vite] (client) page reload src/game.ts
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+11:02:04 AM [vite] (client) page reload src/game.ts
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+11:02:13 AM [vite] (client) page reload src/game.ts
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+11:02:26 AM [vite] (client) page reload src/game.ts
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+11:02:56 AM [vite] (client) page reload src/game.ts
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+11:03:08 AM [vite] (client) page reload src/game.ts
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+11:03:21 AM [vite] (client) page reload src/game.ts
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+11:03:29 AM [vite] (client) page reload src/game.ts
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+11:03:39 AM [vite] (client) page reload src/game.ts
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+11:03:46 AM [vite] (client) page reload src/game.ts
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+11:03:57 AM [vite] (client) page reload src/game.ts
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+11:04:07 AM [vite] (client) page reload src/game.ts
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+11:04:12 AM [vite] (client) page reload src/game.ts
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+📝 UIKitML file change: ui/main-menu.uikitml
+✅ UIKitML file recompiled: main-menu.uikitml
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+📝 UIKitML file change: ui/hud.uikitml
+✅ UIKitML file recompiled: hud.uikitml
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+11:04:41 AM [vite] (client) page reload src/game.ts
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+📝 UIKitML file change: ui/tutorial.uikitml
+✅ UIKitML file recompiled: tutorial.uikitml
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+📝 UIKitML file change: ui/ach.uikitml
+✅ UIKitML file recompiled: ach.uikitml
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+📝 UIKitML file change: ui/ach.uikitml
+✅ UIKitML file recompiled: ach.uikitml
+[browser] [PanelUISystem] Error loading panel for entity 15: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+
+🥽 IWSDK Dev Summary (Development):
+  - Device: metaQuest3
+  - Runtime injected: 1116.7KB
+  - Activation mode: localhost
+  - AI: agent mode (WebSocket at /__iwer_mcp)
+  - Note: Runtime only activates on localhost/local networks
+
+
+🥽 IWSDK Dev Summary (Development):
+  - Device: metaQuest3
+  - Runtime injected: 1116.7KB
+  - Activation mode: localhost
+  - AI: agent mode (WebSocket at /__iwer_mcp)
+  - Note: Runtime only activates on localhost/local networks
+
