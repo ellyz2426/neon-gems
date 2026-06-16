@@ -1,46 +1,36 @@
-# Neon Stack VR
+# Neon Gems VR
 
-A precision block-stacking game built with [IWSDK](https://iwsdk.dev) — playable in the browser and in VR.
+A match-3 swap puzzle game built with [IWSDK](https://iwsdk.dev) (Immersive Web SDK). Swap adjacent gems on an 8x8 neon grid to match 3 or more, trigger cascading combos, and chase high scores across 6 game modes.
 
-## Play
-
-[**Play Now →**](https://ellyz2426.github.io/neon-stack/)
-
-## Gameplay
-
-Blocks slide back and forth. Time your placement to stack them as high as possible. Any overhang gets cut off — but land a perfect placement and the block grows back!
-
-### Game Modes
-
-| Mode | Description |
-|------|-------------|
-| **Classic** | Speed increases as you climb |
-| **Zen** | No game over — stack forever |
-| **Speed** | 60 seconds on the clock |
-| **Precision** | No block growth — every cut is permanent |
-| **Challenge** | Reach a random target height |
-| **Endless** | Constant speed — pure focus |
-
-### Controls
-
-- **VR**: Trigger or A button to place, B button to pause
-- **Browser**: Click/tap to place, Space bar to place, Escape to pause
+**[Play Now](https://ellyz2426.github.io/neon-gems/)**
 
 ## Features
 
-- 🎮 6 game modes with distinct mechanics
-- 🏆 44 achievements to unlock
-- 📊 Persistent statistics tracking
-- 🎵 Procedural audio engine
-- ✨ Dynamic particle effects and tower lighting
-- 🌌 Environmental progression — sky shifts as you climb
-- 🥽 Full VR support with XR controller input
-- 🖱️ Browser click/tap support
+- 8x8 neon gem grid with 6 distinct gem types, each with unique 3D shapes
+- 6 game modes: Classic, Timed, Zen, Endless, Daily Challenge, Puzzle
+- 3 difficulty levels with scaling move/time limits
+- Cascading match system with combo multipliers
+- 40 achievements to unlock
+- 8 gem skins and 4 color themes
+- Procedural audio — synthesized SFX and ambient drone music
+- Persistent leaderboard and statistics via localStorage
+- Full VR support — controller pointing + trigger to select, B to pause
+- Browser-first — mouse click to select/swap gems on desktop
+- 14 PanelUI spatial panels for all game UI
+
+## Controls
+
+### Desktop
+- Click a gem to select it, click an adjacent gem to swap
+
+### VR
+- Point controller at gem, pull trigger to select
+- Press B to pause
 
 ## Tech
 
-Built with [IWSDK](https://github.com/nicholasio/immersive-web-sdk) using:
-- PanelUI spatial interface system (11 `.uikitml` templates)
+Built with [IWSDK](https://iwsdk.dev) v0.4.1 using:
+- PanelUI spatial interface system (14 `.uikitml` templates)
 - ECS architecture with `createSystem`
 - Three.js rendering with neon aesthetics
 - Web Audio API for procedural sound
@@ -48,8 +38,8 @@ Built with [IWSDK](https://github.com/nicholasio/immersive-web-sdk) using:
 ## Development
 
 ```bash
-npm install
-npm run dev
+npm run dev      # Start dev server
+npm run build    # Production build
 ```
 
 ## License
