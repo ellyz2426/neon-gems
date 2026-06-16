@@ -1,0 +1,5 @@
+<panel width="360" height="60" backgroundColor="#0a0a1acc" borderRadius="8" borderWidth="1" borderColor="#ffdd0044" padding="8">
+  <container flexDirection="column" alignItems="center" justifyContent="center" width="100%">
+    <text id="toast-text" fontSize="16" fontWeight="bold" color="#ffdd00" textAlign="center">Achievement unlocked!</text>
+  </container>
+</panel>

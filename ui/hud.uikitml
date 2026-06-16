@@ -1,0 +1,11 @@
+<panel width="400" height="120" backgroundColor="#0a0a1a99" borderRadius="12" borderWidth="1" borderColor="#ff44ff44" padding="12">
+  <container flexDirection="column" alignItems="center" gap="4" width="100%">
+    <container flexDirection="row" justifyContent="spaceBetween" width="100%">
+      <text id="hud-mode" fontSize="14" color="#aa88cc">CLASSIC</text>
+      <text id="hud-combo" fontSize="16" fontWeight="bold" color="#ffdd00"></text>
+    </container>
+    <text id="hud-score" fontSize="36" fontWeight="bold" color="#ff44ff">0</text>
+    <text id="hud-info" fontSize="14" color="#88ccff">Moves: 30</text>
+    <text id="hud-target" fontSize="12" color="#ff8844"></text>
+  </container>
+</panel>

@@ -1,0 +1,9 @@
+<panel width="400" height="320" backgroundColor="#0a0a1aee" borderRadius="16" borderWidth="2" borderColor="#ff44ff44" padding="32">
+  <container flexDirection="column" alignItems="center" justifyContent="center" gap="20" width="100%">
+    <text fontSize="36" fontWeight="bold" color="#ff44ff">PAUSED</text>
+    <container flexDirection="column" gap="12" width="80%">
+      <text id="btn-resume" fontSize="20" fontWeight="bold" color="#000000" backgroundColor="#00ffaa" borderRadius="8" padding="14" textAlign="center">RESUME</text>
+      <text id="btn-quit" fontSize="18" color="#ff4444" backgroundColor="#ff444422" borderRadius="8" padding="12" textAlign="center" borderWidth="1" borderColor="#ff444444">QUIT TO MENU</text>
+    </container>
+  </container>
+</panel>

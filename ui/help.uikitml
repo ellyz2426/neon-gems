@@ -1,0 +1,18 @@
+<panel width="520" height="620" backgroundColor="#0a0a1aee" borderRadius="16" borderWidth="2" borderColor="#88ccff44" padding="28">
+  <container flexDirection="column" alignItems="center" gap="12" width="100%">
+    <text fontSize="28" fontWeight="bold" color="#88ccff">HOW TO PLAY</text>
+    <container flexDirection="column" gap="8" width="90%" backgroundColor="#ffffff08" borderRadius="8" padding="16">
+      <text fontSize="16" fontWeight="bold" color="#ff44ff">MATCH 3 OR MORE</text>
+      <text fontSize="13" color="#ccccee">Click/tap a gem, then click an adjacent gem to swap them. Match 3+ of the same type in a row or column.</text>
+      <text fontSize="16" fontWeight="bold" color="#ffdd00">COMBOS</text>
+      <text fontSize="13" color="#ccccee">Chain matches from cascading gems for combo multipliers. Bigger combos = bigger scores!</text>
+      <text fontSize="16" fontWeight="bold" color="#00ffaa">GAME MODES</text>
+      <text fontSize="13" color="#ccccee">Classic: limited moves. Timed: beat the clock. Zen: relax freely. Endless: play until stuck. Daily: same board for all. Puzzle: hit gem targets.</text>
+      <text fontSize="16" fontWeight="bold" color="#44aaff">VR CONTROLS</text>
+      <text fontSize="13" color="#ccccee">Point controller at gems and pull trigger to select. Press B to pause.</text>
+      <text fontSize="16" fontWeight="bold" color="#ff8844">TIPS</text>
+      <text fontSize="13" color="#ccccee">Look for moves that create cascades. Match 4+ for bonus points. Try all modes to unlock skins!</text>
+    </container>
+    <text id="btn-back" fontSize="16" color="#aaaacc" backgroundColor="#aaaacc22" borderRadius="8" padding="10" textAlign="center">BACK</text>
+  </container>
+</panel>

@@ -1,0 +1,11 @@
+<panel width="440" height="420" backgroundColor="#0a0a1aee" borderRadius="16" borderWidth="2" borderColor="#ff44ff44" padding="32">
+  <container flexDirection="column" alignItems="center" justifyContent="center" gap="20" width="100%">
+    <text fontSize="32" fontWeight="bold" color="#ff44ff">DIFFICULTY</text>
+    <container flexDirection="column" gap="12" width="80%">
+      <text id="btn-easy" fontSize="20" color="#00ff88" backgroundColor="#00ff8822" borderRadius="8" padding="14" textAlign="center" borderWidth="1" borderColor="#00ff8844">EASY</text>
+      <text id="btn-medium" fontSize="20" fontWeight="bold" color="#000000" backgroundColor="#ffdd00" borderRadius="8" padding="14" textAlign="center">MEDIUM</text>
+      <text id="btn-hard" fontSize="20" color="#ff4444" backgroundColor="#ff444422" borderRadius="8" padding="14" textAlign="center" borderWidth="1" borderColor="#ff444444">HARD</text>
+    </container>
+    <text id="btn-diff-back" fontSize="16" color="#aaaacc" backgroundColor="#aaaacc22" borderRadius="8" padding="10" textAlign="center">BACK</text>
+  </container>
+</panel>

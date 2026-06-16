@@ -1,0 +1,24 @@
+<panel width="560" height="740" backgroundColor="#0a0a1aee" borderRadius="16" borderWidth="2" borderColor="#00ffaa44" padding="24">
+  <container flexDirection="column" alignItems="center" gap="6" width="100%">
+    <text fontSize="28" fontWeight="bold" color="#00ffaa">ACHIEVEMENTS</text>
+    <text id="ach-count" fontSize="16" color="#ffdd00">0 / 40</text>
+    <container flexDirection="column" gap="3" width="100%" backgroundColor="#ffffff08" borderRadius="8" padding="10">
+      <text id="ach-0" fontSize="12" color="#ccccee"></text>
+      <text id="ach-1" fontSize="12" color="#ccccee"></text>
+      <text id="ach-2" fontSize="12" color="#ccccee"></text>
+      <text id="ach-3" fontSize="12" color="#ccccee"></text>
+      <text id="ach-4" fontSize="12" color="#ccccee"></text>
+      <text id="ach-5" fontSize="12" color="#ccccee"></text>
+      <text id="ach-6" fontSize="12" color="#ccccee"></text>
+      <text id="ach-7" fontSize="12" color="#ccccee"></text>
+      <text id="ach-8" fontSize="12" color="#ccccee"></text>
+      <text id="ach-9" fontSize="12" color="#ccccee"></text>
+      <text id="ach-10" fontSize="12" color="#ccccee"></text>
+      <text id="ach-11" fontSize="12" color="#ccccee"></text>
+      <text id="ach-12" fontSize="12" color="#ccccee"></text>
+      <text id="ach-13" fontSize="12" color="#ccccee"></text>
+      <text id="ach-14" fontSize="12" color="#ccccee"></text>
+    </container>
+    <text id="btn-back" fontSize="16" color="#aaaacc" backgroundColor="#aaaacc22" borderRadius="8" padding="10" textAlign="center">BACK</text>
+  </container>
+</panel>

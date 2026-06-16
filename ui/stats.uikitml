@@ -1,0 +1,16 @@
+<panel width="480" height="560" backgroundColor="#0a0a1aee" borderRadius="16" borderWidth="2" borderColor="#44aaff44" padding="28">
+  <container flexDirection="column" alignItems="center" gap="10" width="100%">
+    <text fontSize="28" fontWeight="bold" color="#44aaff">STATISTICS</text>
+    <container flexDirection="column" gap="6" width="90%" backgroundColor="#ffffff08" borderRadius="8" padding="16">
+      <text id="stat-games" fontSize="16" color="#ffffff">Games: 0</text>
+      <text id="stat-score" fontSize="16" color="#ff44ff">Total Score: 0</text>
+      <text id="stat-best" fontSize="16" color="#ffdd00">Best Score: 0</text>
+      <text id="stat-combo" fontSize="16" color="#ff8844">Best Combo: x0</text>
+      <text id="stat-matches" fontSize="16" color="#00ffaa">Matches: 0</text>
+      <text id="stat-gems" fontSize="16" color="#88ccff">Gems: 0</text>
+      <text id="stat-cascades" fontSize="16" color="#cc44ff">Cascades: 0</text>
+      <text id="stat-achieve" fontSize="16" color="#ffdd00">Achievements: 0/40</text>
+    </container>
+    <text id="btn-back" fontSize="16" color="#aaaacc" backgroundColor="#aaaacc22" borderRadius="8" padding="10" textAlign="center">BACK</text>
+  </container>
+</panel>

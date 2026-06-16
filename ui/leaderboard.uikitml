@@ -1,0 +1,74 @@
+<panel width="560" height="740" backgroundColor="#0a0a1aee" borderRadius="16" borderWidth="2" borderColor="#ffdd0044" padding="24">
+  <container flexDirection="column" alignItems="center" gap="8" width="100%">
+    <text fontSize="28" fontWeight="bold" color="#ffdd00">LEADERBOARD</text>
+    <container flexDirection="column" gap="4" width="100%" backgroundColor="#ffffff08" borderRadius="8" padding="12">
+      <container flexDirection="row" justifyContent="spaceBetween" width="100%">
+        <text fontSize="12" fontWeight="bold" color="#aa88cc" width="15%">RANK</text>
+        <text fontSize="12" fontWeight="bold" color="#aa88cc" width="30%">SCORE</text>
+        <text fontSize="12" fontWeight="bold" color="#aa88cc" width="25%">MODE</text>
+        <text fontSize="12" fontWeight="bold" color="#aa88cc" width="30%">DATE</text>
+      </container>
+      <container flexDirection="row" justifyContent="spaceBetween" width="100%">
+        <text id="lb-rank-0" fontSize="14" color="#ff44ff" width="15%"></text>
+        <text id="lb-score-0" fontSize="14" color="#ffffff" width="30%"></text>
+        <text id="lb-mode-0" fontSize="14" color="#88ccff" width="25%"></text>
+        <text id="lb-date-0" fontSize="14" color="#aaaacc" width="30%"></text>
+      </container>
+      <container flexDirection="row" justifyContent="spaceBetween" width="100%">
+        <text id="lb-rank-1" fontSize="14" color="#ff44ff" width="15%"></text>
+        <text id="lb-score-1" fontSize="14" color="#ffffff" width="30%"></text>
+        <text id="lb-mode-1" fontSize="14" color="#88ccff" width="25%"></text>
+        <text id="lb-date-1" fontSize="14" color="#aaaacc" width="30%"></text>
+      </container>
+      <container flexDirection="row" justifyContent="spaceBetween" width="100%">
+        <text id="lb-rank-2" fontSize="14" color="#ff44ff" width="15%"></text>
+        <text id="lb-score-2" fontSize="14" color="#ffffff" width="30%"></text>
+        <text id="lb-mode-2" fontSize="14" color="#88ccff" width="25%"></text>
+        <text id="lb-date-2" fontSize="14" color="#aaaacc" width="30%"></text>
+      </container>
+      <container flexDirection="row" justifyContent="spaceBetween" width="100%">
+        <text id="lb-rank-3" fontSize="14" color="#ff44ff" width="15%"></text>
+        <text id="lb-score-3" fontSize="14" color="#ffffff" width="30%"></text>
+        <text id="lb-mode-3" fontSize="14" color="#88ccff" width="25%"></text>
+        <text id="lb-date-3" fontSize="14" color="#aaaacc" width="30%"></text>
+      </container>
+      <container flexDirection="row" justifyContent="spaceBetween" width="100%">
+        <text id="lb-rank-4" fontSize="14" color="#ff44ff" width="15%"></text>
+        <text id="lb-score-4" fontSize="14" color="#ffffff" width="30%"></text>
+        <text id="lb-mode-4" fontSize="14" color="#88ccff" width="25%"></text>
+        <text id="lb-date-4" fontSize="14" color="#aaaacc" width="30%"></text>
+      </container>
+      <container flexDirection="row" justifyContent="spaceBetween" width="100%">
+        <text id="lb-rank-5" fontSize="14" color="#ff44ff" width="15%"></text>
+        <text id="lb-score-5" fontSize="14" color="#ffffff" width="30%"></text>
+        <text id="lb-mode-5" fontSize="14" color="#88ccff" width="25%"></text>
+        <text id="lb-date-5" fontSize="14" color="#aaaacc" width="30%"></text>
+      </container>
+      <container flexDirection="row" justifyContent="spaceBetween" width="100%">
+        <text id="lb-rank-6" fontSize="14" color="#ff44ff" width="15%"></text>
+        <text id="lb-score-6" fontSize="14" color="#ffffff" width="30%"></text>
+        <text id="lb-mode-6" fontSize="14" color="#88ccff" width="25%"></text>
+        <text id="lb-date-6" fontSize="14" color="#aaaacc" width="30%"></text>
+      </container>
+      <container flexDirection="row" justifyContent="spaceBetween" width="100%">
+        <text id="lb-rank-7" fontSize="14" color="#ff44ff" width="15%"></text>
+        <text id="lb-score-7" fontSize="14" color="#ffffff" width="30%"></text>
+        <text id="lb-mode-7" fontSize="14" color="#88ccff" width="25%"></text>
+        <text id="lb-date-7" fontSize="14" color="#aaaacc" width="30%"></text>
+      </container>
+      <container flexDirection="row" justifyContent="spaceBetween" width="100%">
+        <text id="lb-rank-8" fontSize="14" color="#ff44ff" width="15%"></text>
+        <text id="lb-score-8" fontSize="14" color="#ffffff" width="30%"></text>
+        <text id="lb-mode-8" fontSize="14" color="#88ccff" width="25%"></text>
+        <text id="lb-date-8" fontSize="14" color="#aaaacc" width="30%"></text>
+      </container>
+      <container flexDirection="row" justifyContent="spaceBetween" width="100%">
+        <text id="lb-rank-9" fontSize="14" color="#ff44ff" width="15%"></text>
+        <text id="lb-score-9" fontSize="14" color="#ffffff" width="30%"></text>
+        <text id="lb-mode-9" fontSize="14" color="#88ccff" width="25%"></text>
+        <text id="lb-date-9" fontSize="14" color="#aaaacc" width="30%"></text>
+      </container>
+    </container>
+    <text id="btn-back" fontSize="16" color="#aaaacc" backgroundColor="#aaaacc22" borderRadius="8" padding="10" textAlign="center">BACK</text>
+  </container>
+</panel>

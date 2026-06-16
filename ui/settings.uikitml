@@ -1,0 +1,28 @@
+<panel width="480" height="560" backgroundColor="#0a0a1aee" borderRadius="16" borderWidth="2" borderColor="#aaaacc44" padding="28">
+  <container flexDirection="column" alignItems="center" gap="16" width="100%">
+    <text fontSize="28" fontWeight="bold" color="#aaaacc">SETTINGS</text>
+    <container flexDirection="column" gap="12" width="90%" backgroundColor="#ffffff08" borderRadius="8" padding="16">
+      <container flexDirection="row" justifyContent="spaceBetween" alignItems="center" width="100%">
+        <text id="btn-master-dn" fontSize="18" color="#ff44ff" backgroundColor="#ff44ff22" borderRadius="6" padding="8" textAlign="center" width="40">-</text>
+        <text id="set-master" fontSize="16" color="#ffffff" textAlign="center">Master: 100%</text>
+        <text id="btn-master-up" fontSize="18" color="#ff44ff" backgroundColor="#ff44ff22" borderRadius="6" padding="8" textAlign="center" width="40">+</text>
+      </container>
+      <container flexDirection="row" justifyContent="spaceBetween" alignItems="center" width="100%">
+        <text id="btn-sfx-dn" fontSize="18" color="#00ffaa" backgroundColor="#00ffaa22" borderRadius="6" padding="8" textAlign="center" width="40">-</text>
+        <text id="set-sfx" fontSize="16" color="#ffffff" textAlign="center">SFX: 100%</text>
+        <text id="btn-sfx-up" fontSize="18" color="#00ffaa" backgroundColor="#00ffaa22" borderRadius="6" padding="8" textAlign="center" width="40">+</text>
+      </container>
+      <container flexDirection="row" justifyContent="spaceBetween" alignItems="center" width="100%">
+        <text id="btn-music-dn" fontSize="18" color="#44aaff" backgroundColor="#44aaff22" borderRadius="6" padding="8" textAlign="center" width="40">-</text>
+        <text id="set-music" fontSize="16" color="#ffffff" textAlign="center">Music: 100%</text>
+        <text id="btn-music-up" fontSize="18" color="#44aaff" backgroundColor="#44aaff22" borderRadius="6" padding="8" textAlign="center" width="40">+</text>
+      </container>
+      <container flexDirection="row" justifyContent="spaceBetween" alignItems="center" width="100%">
+        <text id="btn-theme-prev" fontSize="18" color="#ffdd00" backgroundColor="#ffdd0022" borderRadius="6" padding="8" textAlign="center" width="40">&lt;</text>
+        <text id="set-theme" fontSize="16" color="#ffffff" textAlign="center">Theme: Neon</text>
+        <text id="btn-theme-next" fontSize="18" color="#ffdd00" backgroundColor="#ffdd0022" borderRadius="6" padding="8" textAlign="center" width="40">&gt;</text>
+      </container>
+    </container>
+    <text id="btn-set-back" fontSize="16" color="#aaaacc" backgroundColor="#aaaacc22" borderRadius="8" padding="10" textAlign="center">BACK</text>
+  </container>
+</panel>

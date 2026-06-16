@@ -1,0 +1,15 @@
+<panel width="560" height="740" backgroundColor="#0a0a1aee" borderRadius="16" borderWidth="2" borderColor="#ff44ff44" padding="32">
+  <container flexDirection="column" alignItems="center" justifyContent="center" gap="20" width="100%">
+    <text fontSize="52" fontWeight="bold" color="#ff44ff">NEON GEMS</text>
+    <text fontSize="16" color="#aa88cc">Match-3 Puzzle</text>
+    <container flexDirection="column" gap="12" width="80%">
+      <text id="btn-play" fontSize="22" fontWeight="bold" color="#000000" backgroundColor="#ff44ff" borderRadius="8" padding="14" textAlign="center">PLAY</text>
+      <text id="btn-scores" fontSize="18" color="#ffdd00" backgroundColor="#ffdd0022" borderRadius="8" padding="12" textAlign="center" borderWidth="1" borderColor="#ffdd0044">LEADERBOARD</text>
+      <text id="btn-achieve" fontSize="18" color="#00ffaa" backgroundColor="#00ffaa22" borderRadius="8" padding="12" textAlign="center" borderWidth="1" borderColor="#00ffaa44">ACHIEVEMENTS</text>
+      <text id="btn-stats" fontSize="18" color="#44aaff" backgroundColor="#44aaff22" borderRadius="8" padding="12" textAlign="center" borderWidth="1" borderColor="#44aaff44">STATISTICS</text>
+      <text id="btn-skins" fontSize="18" color="#ff8844" backgroundColor="#ff884422" borderRadius="8" padding="12" textAlign="center" borderWidth="1" borderColor="#ff884444">GEM SKINS</text>
+      <text id="btn-settings" fontSize="18" color="#aaaacc" backgroundColor="#aaaacc22" borderRadius="8" padding="12" textAlign="center" borderWidth="1" borderColor="#aaaacc44">SETTINGS</text>
+      <text id="btn-help" fontSize="18" color="#88ccff" backgroundColor="#88ccff22" borderRadius="8" padding="12" textAlign="center" borderWidth="1" borderColor="#88ccff44">HOW TO PLAY</text>
+    </container>
+  </container>
+</panel>

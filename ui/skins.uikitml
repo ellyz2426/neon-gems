@@ -1,0 +1,24 @@
+<panel width="480" height="640" backgroundColor="#0a0a1aee" borderRadius="16" borderWidth="2" borderColor="#ff884444" padding="24">
+  <container flexDirection="column" alignItems="center" gap="8" width="100%">
+    <text fontSize="28" fontWeight="bold" color="#ff8844">GEM SKINS</text>
+    <container flexDirection="column" gap="6" width="90%" backgroundColor="#ffffff08" borderRadius="8" padding="12">
+      <text id="skin-0" fontSize="15" color="#ffffff">Classic Neon</text>
+      <text id="skin-info-0" fontSize="11" color="#aa88cc">Default</text>
+      <text id="skin-1" fontSize="15" color="#ffffff">Bright Pulse</text>
+      <text id="skin-info-1" fontSize="11" color="#aa88cc">Unlock: 50 matches</text>
+      <text id="skin-2" fontSize="15" color="#ffffff">Soft Glow</text>
+      <text id="skin-info-2" fontSize="11" color="#aa88cc">Unlock: 5K score</text>
+      <text id="skin-3" fontSize="15" color="#ffffff">Prismatic</text>
+      <text id="skin-info-3" fontSize="11" color="#aa88cc">Unlock: 10 games</text>
+      <text id="skin-4" fontSize="15" color="#ffffff">Deep Core</text>
+      <text id="skin-info-4" fontSize="11" color="#aa88cc">Unlock: x5 combo</text>
+      <text id="skin-5" fontSize="15" color="#ffffff">Chrome</text>
+      <text id="skin-info-5" fontSize="11" color="#aa88cc">Unlock: all modes</text>
+      <text id="skin-6" fontSize="15" color="#ffffff">Void</text>
+      <text id="skin-info-6" fontSize="11" color="#aa88cc">Unlock: 10K score</text>
+      <text id="skin-7" fontSize="15" color="#ffffff">Solar</text>
+      <text id="skin-info-7" fontSize="11" color="#aa88cc">Unlock: 25K score</text>
+    </container>
+    <text id="btn-back" fontSize="16" color="#aaaacc" backgroundColor="#aaaacc22" borderRadius="8" padding="10" textAlign="center">BACK</text>
+  </container>
+</panel>

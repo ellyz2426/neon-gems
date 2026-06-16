@@ -1,0 +1,20 @@
+<panel width="560" height="720" backgroundColor="#0a0a1aee" borderRadius="16" borderWidth="2" borderColor="#ff44ff44" padding="32">
+  <container flexDirection="column" alignItems="center" justifyContent="center" gap="16" width="100%">
+    <text fontSize="36" fontWeight="bold" color="#ff44ff">SELECT MODE</text>
+    <container flexDirection="column" gap="10" width="80%">
+      <text id="btn-classic" fontSize="20" fontWeight="bold" color="#000000" backgroundColor="#ff44ff" borderRadius="8" padding="12" textAlign="center">CLASSIC</text>
+      <text fontSize="12" color="#aa88cc" textAlign="center">Limited moves - maximize score</text>
+      <text id="btn-timed" fontSize="20" color="#ffdd00" backgroundColor="#ffdd0022" borderRadius="8" padding="12" textAlign="center" borderWidth="1" borderColor="#ffdd0044">TIMED</text>
+      <text fontSize="12" color="#aa88cc" textAlign="center">Race against the clock</text>
+      <text id="btn-zen" fontSize="20" color="#00ffaa" backgroundColor="#00ffaa22" borderRadius="8" padding="12" textAlign="center" borderWidth="1" borderColor="#00ffaa44">ZEN</text>
+      <text fontSize="12" color="#aa88cc" textAlign="center">Relax - no limits</text>
+      <text id="btn-endless" fontSize="20" color="#44aaff" backgroundColor="#44aaff22" borderRadius="8" padding="12" textAlign="center" borderWidth="1" borderColor="#44aaff44">ENDLESS</text>
+      <text fontSize="12" color="#aa88cc" textAlign="center">Play until no moves remain</text>
+      <text id="btn-daily" fontSize="20" color="#ff8844" backgroundColor="#ff884422" borderRadius="8" padding="12" textAlign="center" borderWidth="1" borderColor="#ff884444">DAILY CHALLENGE</text>
+      <text fontSize="12" color="#aa88cc" textAlign="center">Same board for everyone today</text>
+      <text id="btn-puzzle" fontSize="20" color="#ff4488" backgroundColor="#ff448822" borderRadius="8" padding="12" textAlign="center" borderWidth="1" borderColor="#ff448844">PUZZLE</text>
+      <text fontSize="12" color="#aa88cc" textAlign="center">Match a target gem count</text>
+    </container>
+    <text id="btn-ms-back" fontSize="16" color="#aaaacc" backgroundColor="#aaaacc22" borderRadius="8" padding="10" textAlign="center">BACK</text>
+  </container>
+</panel>

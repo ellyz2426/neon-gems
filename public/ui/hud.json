@@ -1,0 +1,189 @@
+{
+  "element": {
+    "sourceTag": "panel",
+    "type": "custom",
+    "children": [
+      {
+        "sourceTag": "container",
+        "type": "custom",
+        "children": [
+          {
+            "sourceTag": "container",
+            "type": "custom",
+            "children": [
+              {
+                "sourceTag": "text",
+                "type": "custom",
+                "children": [
+                  "CLASSIC"
+                ],
+                "properties": {
+                  "id": "hud-mode",
+                  "fontsize": "14",
+                  "color": "#aa88cc"
+                },
+                "dataUid": "uid-4"
+              },
+              {
+                "sourceTag": "text",
+                "type": "custom",
+                "children": [],
+                "properties": {
+                  "id": "hud-combo",
+                  "fontsize": "16",
+                  "fontweight": "bold",
+                  "color": "#ffdd00"
+                },
+                "dataUid": "uid-5"
+              }
+            ],
+            "properties": {
+              "flexdirection": "row",
+              "justifycontent": "spaceBetween",
+              "width": "100%"
+            },
+            "dataUid": "uid-3"
+          },
+          {
+            "sourceTag": "text",
+            "type": "custom",
+            "children": [
+              "0"
+            ],
+            "properties": {
+              "id": "hud-score",
+              "fontsize": "36",
+              "fontweight": "bold",
+              "color": "#ff44ff"
+            },
+            "dataUid": "uid-6"
+          },
+          {
+            "sourceTag": "text",
+            "type": "custom",
+            "children": [
+              "Moves: 30"
+            ],
+            "properties": {
+              "id": "hud-info",
+              "fontsize": "14",
+              "color": "#88ccff"
+            },
+            "dataUid": "uid-7"
+          },
+          {
+            "sourceTag": "text",
+            "type": "custom",
+            "children": [],
+            "properties": {
+              "id": "hud-target",
+              "fontsize": "12",
+              "color": "#ff8844"
+            },
+            "dataUid": "uid-8"
+          }
+        ],
+        "properties": {
+          "flexdirection": "column",
+          "alignitems": "center",
+          "gap": "4",
+          "width": "100%"
+        },
+        "dataUid": "uid-2"
+      }
+    ],
+    "properties": {
+      "width": "400",
+      "height": "120",
+      "backgroundcolor": "#0a0a1a99",
+      "borderradius": "12",
+      "borderwidth": "1",
+      "bordercolor": "#ff44ff44",
+      "padding": "12"
+    },
+    "dataUid": "uid-1"
+  },
+  "classes": {},
+  "ranges": {
+    "uid-1": {
+      "start": {
+        "line": 0,
+        "column": 0
+      },
+      "end": {
+        "line": 10,
+        "column": 8
+      }
+    },
+    "uid-2": {
+      "start": {
+        "line": 1,
+        "column": 2
+      },
+      "end": {
+        "line": 9,
+        "column": 14
+      }
+    },
+    "uid-3": {
+      "start": {
+        "line": 2,
+        "column": 4
+      },
+      "end": {
+        "line": 5,
+        "column": 16
+      }
+    },
+    "uid-4": {
+      "start": {
+        "line": 3,
+        "column": 6
+      },
+      "end": {
+        "line": 3,
+        "column": 70
+      }
+    },
+    "uid-5": {
+      "start": {
+        "line": 4,
+        "column": 6
+      },
+      "end": {
+        "line": 4,
+        "column": 82
+      }
+    },
+    "uid-6": {
+      "start": {
+        "line": 6,
+        "column": 4
+      },
+      "end": {
+        "line": 6,
+        "column": 81
+      }
+    },
+    "uid-7": {
+      "start": {
+        "line": 7,
+        "column": 4
+      },
+      "end": {
+        "line": 7,
+        "column": 70
+      }
+    },
+    "uid-8": {
+      "start": {
+        "line": 8,
+        "column": 4
+      },
+      "end": {
+        "line": 8,
+        "column": 63
+      }
+    }
+  }
+}

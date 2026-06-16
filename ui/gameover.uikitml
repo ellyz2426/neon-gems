@@ -1,0 +1,18 @@
+<panel width="480" height="560" backgroundColor="#0a0a1aee" borderRadius="16" borderWidth="2" borderColor="#ff44ff44" padding="28">
+  <container flexDirection="column" alignItems="center" justifyContent="center" gap="12" width="100%">
+    <text id="go-title" fontSize="36" fontWeight="bold" color="#ff44ff">GAME OVER</text>
+    <text id="go-best" fontSize="18" fontWeight="bold" color="#ffdd00"></text>
+    <container flexDirection="column" gap="6" width="90%" backgroundColor="#ffffff08" borderRadius="8" padding="16">
+      <text id="go-score" fontSize="24" fontWeight="bold" color="#ff44ff">Score: 0</text>
+      <text id="go-mode" fontSize="14" color="#aa88cc">CLASSIC</text>
+      <text id="go-matches" fontSize="14" color="#88ccff">Matches: 0</text>
+      <text id="go-gems" fontSize="14" color="#00ffaa">Gems: 0</text>
+      <text id="go-combo" fontSize="14" color="#ffdd00">Best Combo: x0</text>
+      <text id="go-moves" fontSize="14" color="#aaaacc">Moves: 0</text>
+    </container>
+    <container flexDirection="column" gap="10" width="80%">
+      <text id="btn-rematch" fontSize="20" fontWeight="bold" color="#000000" backgroundColor="#ff44ff" borderRadius="8" padding="12" textAlign="center">PLAY AGAIN</text>
+      <text id="btn-menu" fontSize="18" color="#aaaacc" backgroundColor="#aaaacc22" borderRadius="8" padding="10" textAlign="center" borderWidth="1" borderColor="#aaaacc44">MAIN MENU</text>
+    </container>
+  </container>
+</panel>
